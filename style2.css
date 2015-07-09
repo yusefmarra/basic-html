@@ -1,0 +1,14 @@
+div {
+  width: 250px;
+  margin: auto;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+p {
+  text-align: center;
+  color: pink;
+}

@@ -1,0 +1,71 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: orange;
+}
+
+div.nav {
+  width: 100%;
+  margin: 0;
+  border-style: solid;
+  border-color: black;
+}
+
+nav {
+  height: 50px;
+  width: 50px;
+  display: inline;
+  margin-right: 20px;
+}
+
+form {
+  color: purple;
+}
+
+input[type="submit"] {
+  background-color: orange;
+}
+
+input {
+  margin: 10px;
+  min-width: 100px;
+}
+
+section {
+  float:left;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  margin: 10px;
+  width: 200px;
+  height: 300px;
+  padding: 10px;
+}
+
+footer {
+  clear: both;
+  width: 150px;
+  margin: auto;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+}
+
+/*
+.students {
+  float:left;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+}
+
+.instructors {
+  float:right;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+}
+*/

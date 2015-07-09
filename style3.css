@@ -1,0 +1,49 @@
+body {
+  background-color: blue;
+}
+
+h1 {
+  color: white;
+}
+
+div {
+  width: 500px;
+  margin: auto;
+}
+
+section {
+  float:left;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  margin: 10px;
+  width: 200px;
+  height: 300px;
+  padding: 10px;
+}
+
+footer {
+  clear: both;
+  width: 150px;
+  margin: auto;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+}
+
+/*
+.students {
+  float:left;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+}
+
+.instructors {
+  float:right;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+}
+*/
